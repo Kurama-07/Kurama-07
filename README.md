@@ -81,14 +81,6 @@
 
 ---
 
-## 💼 Internships & Training
-- 🛰 **Agnirva Space Program (AICTE)** – Orbital mechanics, telemetry, remote sensing  
-- 🏢 **Ardent (MEAN Stack)** – Industrial training in full-stack web dev  
-- 🏢 **Intel Unnati** – Bug detection & fix recommender system (ML/DL)  
-- 📊 **NIELET** – Blockchain, Big Data, and Data Science  
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/soumavoacharjee/"><img src="https://img.shields.io/badge/LinkedIn-ff6a00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
