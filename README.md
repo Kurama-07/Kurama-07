@@ -73,12 +73,7 @@
 
 ---
 
-## 📂 Projects
-- 🕶 **AI Accessibility Glasses** – Smart glasses with object detection & voice feedback  
-- 💳 **Credit-Intel** – AI/ML-based credit risk monitoring & dashboards  
-- 📚 **E-learning Platform (MEAN)** – Full-stack online learning solution  
-- 🐞 **AI Bug Detection Model** – ML/DL-driven bug finder in Python  
-
+🔗 [Check out my repositories](https://github.com/Kurama-07?tab=repositories)
 ---
 
 ## 📫 Connect With Me  
