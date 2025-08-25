@@ -5,9 +5,7 @@
 # 🦊 Kurama Mode Activated — Soumavo Acharjee  
 
 <h1 align="center">
-  <b>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6A00&width=600&lines=Aspiring+Web+Developer;Full-Stack+Learner;AI+%26+ML+Explorer;Kurama+Chakra+Unleashed" alt="Typing SVG" />
-  </b>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=FF6A00&lines=Aspiring+Web+Developer;Full-Stack+Learner;AI+%26+ML+Explorer;Kurama+Chakra+Unleashed" alt="Typing SVG" />
 </h1>
 
 ---
